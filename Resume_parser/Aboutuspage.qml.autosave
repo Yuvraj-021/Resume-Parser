@@ -1,0 +1,12 @@
+import QtQuick 2.4
+
+Firstpage {
+    AnimatedImage {
+        id: animatedImage
+        x: 43
+        y: 15
+        width: 534
+        height: 444
+        source: "C:/Users/yuvra/Downloads/60377-letter.gif"
+    }
+}
